@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\bin\Debug\net6.0-windows\LabActivity1.exe
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\bin\Debug\net6.0-windows\LabActivity1.deps.json
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\bin\Debug\net6.0-windows\LabActivity1.runtimeconfig.json
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\bin\Debug\net6.0-windows\LabActivity1.dll
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\bin\Debug\net6.0-windows\LabActivity1.pdb
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.Form1.resources
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.AssemblyInfo.vb
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.dll
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\refint\LabActivity1.dll
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.pdb
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\LabActivity1.genruntimeconfig.cache
+C:\Users\USER\source\repos\LabActivity1\LabActivity1\obj\Debug\net6.0-windows\ref\LabActivity1.dll
